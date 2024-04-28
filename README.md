@@ -1,4 +1,5 @@
-<img src="banner_devops.png">
+<img src="banner_devops.jpg">
+
 ### Olá! Eu sou o Rosner Nascimento e seja bem vindo ao meu Github 👋
 
 Especialista em Infraestrutura com ampla experiência em empresas de diversos portes, focado em manter ambientes operacionais complexos e otimizados.
