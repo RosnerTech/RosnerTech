@@ -52,22 +52,6 @@ Valorizo **boas práticas DevOps**, documentação, padronização e colaboraç�
 
 👉 https://github.com/RosnerTech/rocketraccoon-homelab
 
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RosnerTech&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosnerTech&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/RosnerTech/RosnerTech/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
 
 ---
 
