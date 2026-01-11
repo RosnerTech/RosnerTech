@@ -1,37 +1,94 @@
-<img src="banner_devops.jpg">
+<p align="center">
+  <img src="banner_system_engineer.png" alt="System Engineer Banner" width="100%">
+</p>
 
-### Olá! Eu sou o Rosner Nascimento e seja bem vindo ao meu Github 👋
+<h1 align="center">🚀 Rosner Pelaes Nascimento</h1>
 
-Especialista em Infraestrutura com ampla experiência em empresas de diversos portes, focado em manter ambientes operacionais complexos e otimizados.
-## Principais habilidades:
-- Gestão de Data Centers físicos e virtuais.
-- Administração de Ambientes Windows e Linux.
-- Projetos de infraestrutura e redes Wi-Fi.
-- Virtualização de Servidores.
-- Implementação de medidas de segurança e firewalls.
-- Gerenciamento de Storage e ferramentas de monitoramento.
-- Desenvolvimento de Dashboards para métricas.
-- Integração de ferramentas de comunicação.
-- Administração de ferramentas de versionamento.
-- Configuração de acesso remoto e VPN.
-- Implementação de soluções de backup.
-- Modelagem de banco de dados.
-- Familiaridade com Docker, Kubernetes e nuvem.
-- Competência em sistemas embarcados e programação.
+<p align="center">
+  <b>System Engineer | Network Automation | Infraestrutura | DevOps</b>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosner-pelaes-nascimento/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/rosner-pelaes-nascimento/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rosner%20Nascimento-1f6f54?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/RosnerTech">
+    <img src="https://img.shields.io/badge/GitHub-RosnerTech-1f6f54?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-<!--
-**rosnerpn/rosnerpn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 Sobre mim (PT-BR)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: Ele/Dele
-- ⚡ Fun fact: ...
--->
+Sou **System Engineer** com mais de **12 anos de experiência** em infraestrutura, redes e automação, atuando atualmente com forte foco em **Network Automation**, **Infrastructure as Code (IaC)** e **ambientes Cloud escaláveis**.
+
+Atuo no desenho, desenvolvimento e operação de soluções automatizadas utilizando **Python, APIs e pipelines de CI/CD**, aplicadas ao provisionamento, configuração, monitoramento e operação de ambientes de rede e sistemas críticos, sempre buscando **redução de trabalho manual e aumento de confiabilidade**.
+
+Tenho experiência com **redes LAN, WAN, VPN, SD-WAN e Cloud**, incluindo integração com **AWS (VPC, routing e conectividade)**, além da administração de **firewalls, wireless corporativo e autenticação**. Também atuo fortemente com **observabilidade**, utilizando **Zabbix, Grafana e soluções de logging**.
+
+Valorizo **boas práticas DevOps**, documentação, padronização e colaboração entre times de infraestrutura, desenvolvimento, segurança e operações.
+
+---
+
+## 🛠️ Tecnologias & Foco Atual
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,linux,docker,kubernetes,aws,git&theme=dark" />
+</p>
+
+- 🐍 Python & Network Automation  
+- 🏗️ Infrastructure as Code (IaC)  
+- 🔁 CI/CD & APIs  
+- ☁️ AWS Networking  
+- 📊 Observabilidade (Zabbix, Grafana)  
+- 🔐 Segurança & DevOps  
+
+---
+
+## 🏠 Homelab
+
+🚀 Projeto de **homelab documentado por fases**, aplicando conceitos reais de infraestrutura, redes, segurança e DevOps.
+
+👉 https://github.com/RosnerTech/rocketraccoon-homelab
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosnerTech&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RosnerTech&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/RosnerTech/RosnerTech/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+
+---
+
+# 🌍 About Me (EN)
+
+I am a **System Engineer** with over **12 years of experience** in infrastructure, networking, and automation, currently focused on **Network Automation**, **Infrastructure as Code (IaC)**, and **scalable Cloud environments**.
+
+I design, develop, and operate automated solutions using **Python, APIs, and CI/CD pipelines** to provision, configure, monitor, and operate network environments and critical systems, always aiming to **reduce manual effort and increase reliability**.
+
+My experience includes **LAN, WAN, VPN, SD-WAN, and Cloud networking**, including **AWS (VPC, routing, and connectivity)**, as well as administration of **firewalls, enterprise wireless, and authentication systems**. I also work extensively with **observability**, using **Zabbix, Grafana, and logging platforms**.
+
+I strongly value **DevOps best practices**, documentation, standardization, and collaboration across infrastructure, development, security, and operations teams.
+
+---
+
+## 📫 Contact
+
+📧 rosner@rosnertech.com.br  
+📧 ros.tecinfo@gmail.com  
+🌐 https://blog.rosnertech.com.br
+
+<p align="center">
+  <i>“Build, automate, document, and improve continuously.”</i>
+</p>
