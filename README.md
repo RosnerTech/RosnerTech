@@ -46,44 +46,93 @@ Valorizo **boas práticas DevOps**, documentação, padronização e colaboraç�
 
 ---
 
-## 🏠 Homelab
+## 🧠 Áreas de Atuação
 
-🚀 Projeto de **homelab documentado por fases**, aplicando conceitos reais de infraestrutura, redes, segurança e DevOps.
-
-👉 https://github.com/RosnerTech/rocketraccoon-homelab
-
----
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://raw.githubusercontent.com/RosnerTech/RosnerTech/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" 
-          srcset="https://raw.githubusercontent.com/RosnerTech/RosnerTech/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" 
-       src="https://raw.githubusercontent.com/RosnerTech/RosnerTech/output/github-contribution-grid-snake.svg">
-</picture>
+- 🏗️ Infraestrutura On-Premises e Virtualizada  
+- 🌐 Redes, Firewall e Segurança  
+- 🐳 Containers e DevOps  
+- 🔍 Observabilidade e Monitoramento  
+- 🧪 Homelab como laboratório real  
 
 ---
 
-# 🌍 About Me (EN)
+## 🛠️ Stack Tecnológica
 
-I am a **System Engineer** with over **12 years of experience** in infrastructure, networking, and automation, currently focused on **Network Automation**, **Infrastructure as Code (IaC)**, and **scalable Cloud environments**.
+### 🔹 Infraestrutura & Redes
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,windows,nginx" />
+</p>
 
-I design, develop, and operate automated solutions using **Python, APIs, and CI/CD pipelines** to provision, configure, monitor, and operate network environments and critical systems, always aiming to **reduce manual effort and increase reliability**.
-
-My experience includes **LAN, WAN, VPN, SD-WAN, and Cloud networking**, including **AWS (VPC, routing, and connectivity)**, as well as administration of **firewalls, enterprise wireless, and authentication systems**. I also work extensively with **observability**, using **Zabbix, Grafana, and logging platforms**.
-
-I strongly value **DevOps best practices**, documentation, standardization, and collaboration across infrastructure, development, security, and operations teams.
+<p>
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge&logo=opnsense&logoColor=white"/>
+</p>
 
 ---
 
-## 📫 Contact
+### 🔹 Containers & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white"/>
+</p>
+
+---
+
+### 🔹 Segurança & Observabilidade
+<p>
+  <img src="https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pi-hole&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firewall-%23FF6F00?style=for-the-badge&logo=fortinet&logoColor=white"/>
+</p>
+
+---
+
+## 🏠 Homelab em Destaque
+
+🚀 Projeto principal documentado por fases, aplicando conceitos reais de infraestrutura e DevOps:
+
+<p>
+  <a href="https://github.com/RosnerTech/rocketraccoon-homelab">
+    <img src="https://img.shields.io/badge/rocketraccoon--homelab-View%20Project-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+🔹 Proxmox  
+🔹 OPNsense  
+🔹 Pi-hole  
+🔹 Nginx Proxy Manager  
+🔹 Portainer  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RosnerTech&theme=tokyonight"/>
+</p>
+
+---
+
+## 📚 Em aprendizado contínuo
+
+- Ansible  
+- Kubernetes (prática em lab)  
+- Observabilidade (Grafana / Prometheus)  
+- Zero Trust & Segmentação de redes  
+
+---
+
+## 📫 Contato
 
 📧 rosner@rosnertech.com.br  
 📧 ros.tecinfo@gmail.com  
-🌐 https://blog.rosnertech.com.br
+🌐 https://blog.rosnertech.com.br  
+
+---
 
 <p align="center">
-  <i>“Build, automate, document, and improve continuously.”</i>
+  <i>“Aprender infraestrutura é construir, quebrar, corrigir e documentar.”</i>
 </p>
