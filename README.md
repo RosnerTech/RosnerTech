@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="banner_system_engineer.png" alt="System Engineer Banner" width="100%">
+  <img src="banner_system_engineer.png" alt="RosnerTech Banner" width="100%">
 </p>
 
-<h1 align="center">🚀 Rosner Pelaes Nascimento</h1>
+<h1 align="center">Rosner Pelaes Nascimento</h1>
 
 <p align="center">
-  <b>System Engineer | Network Automation | Infraestrutura | DevOps</b>
+  <b>Systems Engineer · Network Automation · Infrastructure as Code · DevOps</b>
 </p>
 
 <p align="center">
@@ -15,129 +15,116 @@
   <a href="https://github.com/RosnerTech">
     <img src="https://img.shields.io/badge/GitHub-RosnerTech-1f6f54?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
-
----
-
-## 🧠 Sobre mim (PT-BR)
-
-Sou **System Engineer** com mais de **12 anos de experiência** em infraestrutura, redes e automação, atuando atualmente com forte foco em **Network Automation**, **Infrastructure as Code (IaC)** e **ambientes Cloud escaláveis**.
-
-Atuo no desenho, desenvolvimento e operação de soluções automatizadas utilizando **Python, APIs e pipelines de CI/CD**, aplicadas ao provisionamento, configuração, monitoramento e operação de ambientes de rede e sistemas críticos, sempre buscando **redução de trabalho manual e aumento de confiabilidade**.
-
-Tenho experiência com **redes LAN, WAN, VPN, SD-WAN e Cloud**, incluindo integração com **AWS (VPC, routing e conectividade)**, além da administração de **firewalls, wireless corporativo e autenticação**. Também atuo fortemente com **observabilidade**, utilizando **Zabbix, Grafana e soluções de logging**.
-
-Valorizo **boas práticas DevOps**, documentação, padronização e colaboração entre times de infraestrutura, desenvolvimento, segurança e operações.
-
----
-
-## 🛠️ Tecnologias & Foco Atual
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,linux,docker,kubernetes,aws,git&theme=dark" />
-</p>
-
-- 🐍 Python & Network Automation  
-- 🏗️ Infrastructure as Code (IaC)  
-- 🔁 CI/CD & APIs  
-- ☁️ AWS Networking  
-- 📊 Observabilidade (Zabbix, Grafana)  
-- 🔐 Segurança & DevOps  
-
----
-
-## 🧠 Áreas de Atuação
-
-- 🏗️ Infraestrutura On-Premises e Virtualizada  
-- 🌐 Redes, Firewall e Segurança  
-- 🐳 Containers e DevOps  
-- 🔍 Observabilidade e Monitoramento  
-- 🧪 Homelab como laboratório real  
-
----
-
-## 🛠️ Stack Tecnológica
-
-### 🔹 Infraestrutura & Redes
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,windows,nginx" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge&logo=opnsense&logoColor=white"/>
-</p>
-
----
-
-### 🔹 Containers & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white"/>
-</p>
-
----
-
-### 🔹 Segurança & Observabilidade
-<p>
-  <img src="https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pi-hole&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firewall-%23FF6F00?style=for-the-badge&logo=fortinet&logoColor=white"/>
-</p>
-
----
-
-## 🏠 Homelab em Destaque
-
-🚀 Projeto principal documentado por fases, aplicando conceitos reais de infraestrutura e DevOps:
-
-<p>
-  <a href="https://github.com/RosnerTech/rocketraccoon-homelab">
-    <img src="https://img.shields.io/badge/rocketraccoon--homelab-View%20Project-black?style=for-the-badge&logo=github"/>
+  <a href="https://youtube.com/@rosnertech">
+    <img src="https://img.shields.io/badge/YouTube-RosnerTech-1f6f54?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://blog.rosnertech.com.br">
+    <img src="https://img.shields.io/badge/Blog-rosnertech.com.br-1f6f54?style=for-the-badge&logo=rss&logoColor=white"/>
   </a>
 </p>
 
-🔹 Proxmox  
-🔹 OPNsense  
-🔹 Pi-hole  
-🔹 Nginx Proxy Manager  
-🔹 Portainer  
+---
+
+## Sobre mim
+
+Systems Engineer com mais de 12 anos automatizando infraestruturas complexas — redes, sistemas e cloud — em ambientes corporativos e de alta escala.
+
+Trabalho no desenho e implementação de soluções com **Python, APIs e pipelines de CI/CD** para provisionamento, configuração e operação de ambientes críticos. Meu foco atual é **Network Automation** e **Infrastructure as Code**: reduzir trabalho manual, aumentar confiabilidade e entregar mudanças de forma segura e versionada.
+
+Atuo com redes **LAN, WAN, VPN, SD-WAN e Cloud**, integração com **AWS** (VPC, routing e conectividade), administração de firewalls, wireless corporativo e autenticação. Em observabilidade, uso **Zabbix, Grafana** e soluções de logging para garantir visibilidade proativa e melhoria contínua.
+
+Valorizo documentação, padronização e compartilhamento de conhecimento — por isso criei o **RosnerTech**, canal no YouTube e blog onde publico conteúdo técnico sobre Infra, DevOps e Automação sem enrolação.
 
 ---
 
-## 📈 GitHub Stats
+## Stack tecnológica
+
+### Infra & Redes
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,windows,nginx&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge&logo=opnsense&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white"/>
+</p>
+
+### Automação & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=python,docker,kubernetes,git,aws&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+</p>
+
+### Observabilidade & Segurança
+<p>
+  <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pi-hole&logoColor=white"/>
+</p>
+
+---
+
+## Áreas de atuação
+
+- 🏗️ Infraestrutura On-Premises e Virtualizada
+- 🌐 Redes, Firewall e Segurança
+- 🐳 Containers e DevOps
+- 🔍 Observabilidade e Monitoramento
+- 🤖 Network Automation e IaC
+- 🏠 Homelab como laboratório real
+
+---
+
+## Homelab em destaque
+
+Projeto principal documentado por fases, aplicando conceitos reais de infraestrutura e DevOps:
+
+<p>
+  <a href="https://github.com/RosnerTech/rocketraccoon-homelab">
+    <img src="https://img.shields.io/badge/rocketraccoon--homelab-View%20Project-1f6f54?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+`Proxmox` · `OPNsense` · `Pi-hole` · `Nginx Proxy Manager` · `Portainer` · `PNETLab` · `GNS3`
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RosnerTech&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RosnerTech&show_icons=true&theme=dark&bg_color=040a05&title_color=52b788&icon_color=52b788&text_color=c9d1d9&border_color=30363d"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RosnerTech&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RosnerTech&theme=dark&background=040a05&ring=52b788&fire=95d5b2&currStreakLabel=52b788&border=30363d"/>
 </p>
 
 ---
 
-## 📚 Em aprendizado contínuo
+## Contribuições
 
-- Ansible  
-- Kubernetes (prática em lab)  
-- Observabilidade (Grafana / Prometheus)  
-- Zero Trust & Segmentação de redes  
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/RosnerTech/RosnerTech/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/RosnerTech/RosnerTech/output/github-snake.svg" />
+  <img alt="github contribution snake"
+    src="https://raw.githubusercontent.com/RosnerTech/RosnerTech/output/github-snake.svg" />
+</picture>
 
 ---
 
-## 📫 Contato
+## Contato
 
-📧 rosner@rosnertech.com.br
 📧 contato@rosnertech.com.br
-📧 ros.tecinfo@gmail.com  
-🌐 https://blog.rosnertech.com.br  
+🌐 blog.rosnertech.com.br
 
 ---
 
 <p align="center">
-  <i>“Aprender infraestrutura é construir, quebrar, corrigir e documentar.”</i>
+  <i>"Aprender infraestrutura é construir, quebrar, corrigir e documentar."</i>
 </p>
