@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner_system_engineer.png" alt="System Engineer Banner" width="100%">
+  <img src="banner_system_enginee.png" alt="System Engineer Banner" width="100%">
 </p>
 
 <h1 align="center">🚀 Rosner Pelaes Nascimento</h1>
