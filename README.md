@@ -131,7 +131,8 @@ Valorizo **boas práticas DevOps**, documentação, padronização e colaboraç�
 
 ## 📫 Contato
 
-📧 rosner@rosnertech.com.br  
+📧 rosner@rosnertech.com.br
+📧 contato@rosnertech.com.br
 📧 ros.tecinfo@gmail.com  
 🌐 https://blog.rosnertech.com.br  
 
