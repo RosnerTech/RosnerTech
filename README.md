@@ -96,7 +96,7 @@ Projeto principal documentado por fases, aplicando conceitos reais de infraestru
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RosnerTech&show_icons=true&theme=dark&bg_color=040a05&title_color=52b788&icon_color=52b788&text_color=c9d1d9&border_color=30363d"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RosnerTech&show_icons=true&bg_color=040a05&title_color=52b788&icon_color=52b788&text_color=c9d1d9&border_color=30363d&hide_border=false" />
 </p>
 
 <p align="center">
